@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "541637559033",
+    "firebase_url": "https://darbuka-c42be.firebaseio.com",
+    "project_id": "darbuka-c42be",
+    "storage_bucket": "darbuka-c42be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541637559033:android:64be615b81bd4d39",
+        "android_client_info": {
+          "package_name": "com.sevenwin.darbuka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541637559033-29502sl6k2vfhj84aq6d7knobd3nft1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgX-S4SQunhXEC8VJsKK_fnW9sdKuqurw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541637559033:android:d6f92ed81365f1a9",
+        "android_client_info": {
+          "package_name": "com.sevenwin.mydarbuka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541637559033-29502sl6k2vfhj84aq6d7knobd3nft1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgX-S4SQunhXEC8VJsKK_fnW9sdKuqurw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

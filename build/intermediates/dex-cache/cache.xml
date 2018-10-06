@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/79719be7d09668feb449f7c505e71f77/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/3f81d2fcf2277e0bea050679e998fe5c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5c66801c7ac6def4ffef7859925b12ce7940438e">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6cc6389d5d44af8ea92569c11fc9e3eb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/1914e79ee94b002a6b72ad45d0de9783/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/b22613379db981847a56f5e4cbdc508c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a4f81a342ac6bace97ad1420eb47fc11ab749a03">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5efc517a3310608b337917db7d8cef02/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/36c06ef0bf53e000e46ab69d1269d563/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aeca0a0ab86831ec59a54723205ce9341ac22d1b">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/f49abc019f6340b2dcb836f5f2561fef/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="668473027f40fa0cdd5b2db78ba02d676ffd3a2b">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/13f3e528a149ff320dd04da9dc6fc87d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="858c1e21a2570a2416153aecab70d27a11965e79">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/1528df6a259655bc21f808ee0ff14282/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/91709b38cb699eb60ab8350e9efc1a50/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/a6cb97e5b999f2c90096c60b73d6ed1e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7e3ff2cb093a99c8dc1ff3d50c176019fa5d7c1">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/e36527d57cbfe9c3b8e2ac50a7fc77c0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/814a7bd5cc81ad197325ae4b12b0da4e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/f4d2093a16af2ff0b0e7d10a55852a08/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="705378853cb9f264315d7a0a8edb6743d72efe9b">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/91ff0627c0701c9f69082cd6d7776c04/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="24cb9bae5fbe94df0f55d87452a291b69a2f22bf">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/666c76030ac88487c8946cc5ab39413e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/f5f82385735f3bcd979f0641308cd6ec/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/34855278dbf62c14fc3e198401c5d699/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/55c82f16e3d2ae7612a4e3df0d712f1b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="755c70a5a4e439030f67311dbafaa67b111377a6">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/87c6cf26d46bf6c3121c9fe786871418/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a7760a45a6c9f425aaa43ef391a8cf28a8bcb4a1">
+        <dex dex="/home/regopantes_apps/Project Android/Mine/darbuka/project2/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">My Darbuka</string>
+    <string name="dum">DUM</string>
+    <string name="tak">TAK</string>
+    <string name="ka">KA</string>
+    <string name="rol">ROLL</string>
+    <string name="slap">SLAP</string>
+    <string name="choose_your_darbuka_s_theme">Choose your Darbuka\'s Theme</string>
+    <string name="choose_your_background_s_theme">Choose your Background\'s Theme</string>
+    <array name="array_dot_active">
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/colorWhite</item>
+        <item>@color/colorWhite</item>
+        <item>@color/colorWhite</item>
+        <item>@color/colorWhite</item>
+        <item>@color/colorWhite</item>
+        <item>@color/colorWhite</item>
+        <item>@color/colorWhite</item>
+        <item>@color/colorWhite</item>
+    </array>
+    <array name="bgarray_dot_active">
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary</item>
+    </array>
+
+    <array name="bgarray_dot_inactive">
+        <item>@color/colorWhite</item>
+        <item>@color/colorWhite</item>
+    </array>
+</resources>
