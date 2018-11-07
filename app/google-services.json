@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "541637559033",
-    "firebase_url": "https://darbuka-c42be.firebaseio.com",
-    "project_id": "darbuka-c42be",
-    "storage_bucket": "darbuka-c42be.appspot.com"
+    "project_number": "172470532764",
+    "firebase_url": "https://piano-372c8.firebaseio.com",
+    "project_id": "piano-372c8",
+    "storage_bucket": "piano-372c8.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:541637559033:android:64be615b81bd4d39",
+        "mobilesdk_app_id": "1:172470532764:android:2e2657b0b9847606",
         "android_client_info": {
-          "package_name": "com.sevenwin.darbuka"
+          "package_name": "com.nextwin.mydarbuka"
         }
       },
       "oauth_client": [
         {
-          "client_id": "541637559033-29502sl6k2vfhj84aq6d7knobd3nft1t.apps.googleusercontent.com",
+          "client_id": "172470532764-5tn6duvn212v9cedli33vklrt1ijqfus.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAgX-S4SQunhXEC8VJsKK_fnW9sdKuqurw"
+          "current_key": "AIzaSyA9NYuF3xSenvxmXDxMj64FBPlsTqNe0WQ"
         }
       ],
       "services": {
@@ -39,20 +39,20 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:541637559033:android:d6f92ed81365f1a9",
+        "mobilesdk_app_id": "1:172470532764:android:cc17d63bacb7f59a",
         "android_client_info": {
-          "package_name": "com.sevenwin.mydarbuka"
+          "package_name": "com.nextwin.mypianika"
         }
       },
       "oauth_client": [
         {
-          "client_id": "541637559033-29502sl6k2vfhj84aq6d7knobd3nft1t.apps.googleusercontent.com",
+          "client_id": "172470532764-5tn6duvn212v9cedli33vklrt1ijqfus.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAgX-S4SQunhXEC8VJsKK_fnW9sdKuqurw"
+          "current_key": "AIzaSyA9NYuF3xSenvxmXDxMj64FBPlsTqNe0WQ"
         }
       ],
       "services": {

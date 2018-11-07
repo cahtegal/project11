@@ -11,8 +11,8 @@
         android:id="@+id/adview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        ads:adSize="SMART_BANNER"
-        ads:adUnitId="ca-app-pub-4165439494743762/9772406562"/>
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-5730449577374867/5075997518"/>
 
     <ImageView
         android:layout_below="@+id/adview"

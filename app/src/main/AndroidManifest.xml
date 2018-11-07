@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sevenwin.mydarbuka">
+    package="com.nextwin.mydarbuka">
 
     <application
         android:allowBackup="true"
@@ -10,6 +10,10 @@
         android:supportsRtl="true"
         android:largeHeap="true"
         android:theme="@style/AppTheme">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5730449577374867~4911372217"/>
         <activity
             android:name=".Menu"
             android:screenOrientation="landscape"
