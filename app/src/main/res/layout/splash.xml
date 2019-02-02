@@ -28,7 +28,7 @@
                 android:id="@+id/img"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
-                android:src="@drawable/logo_sevenwin" />
+                android:src="@drawable/logo_win_dev" />
         </RelativeLayout>
 
     </RelativeLayout>

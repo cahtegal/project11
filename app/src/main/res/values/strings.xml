@@ -37,4 +37,7 @@
         <item>@color/colorWhite</item>
         <item>@color/colorWhite</item>
     </array>
+
+    <string name="banner_admob">ca-app-pub-5730449577374867/3747384538</string>
+    <string name="inters_admob">ca-app-pub-5730449577374867/9722476389</string>
 </resources>
